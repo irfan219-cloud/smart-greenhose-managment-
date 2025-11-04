@@ -59,17 +59,3 @@ smart monitoring of green house/
 ├── wokwi-project.txt          # Wokwi simulation config
 └── README.md                  # Project documentation
 </pre>
-
-<h2>📸 Output / Simulation</h2>
-<p>Add your screenshots, Wokwi simulation links, or hardware setup images here.</p>
-
-<h2>👨‍💻 Contributors</h2>
-<ul>
-  <li><b>Ajeethan A</b> — Project Developer</li>
-</ul>
-
-<h2>📜 License</h2>
-<p>This project is licensed under the MIT License — feel free to use, modify, and distribute.</p>
-
-<hr>
-<p align="center">Made with ❤️ by Ajeethan A</p>
